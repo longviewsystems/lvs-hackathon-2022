@@ -19,6 +19,18 @@ Will you be participating in the No / Low-code challenge? Try leveraging Node-RE
 
 [Setting up Node-RED Locally](https://nodered.org/docs/getting-started/local)
 
+#### Creating an account with Make
+
+Interested in giving Make a try? You can find more information on this Low -code platform below!
+
+[Getting Started with Make](https://www.make.com/en)
+
+#### Creating an account with IFTTT
+
+How about trying a no No -code platform like IFTTT? You can create an account and try creating your own integration below!
+
+[Getting Started with IFTTT](https://ifttt.com/explore)
+
 ### DEVNET102: NetDevOps with Cisco platforms
 
 #### Setting up your Local Environment
