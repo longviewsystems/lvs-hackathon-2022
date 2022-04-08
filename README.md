@@ -1,6 +1,10 @@
 # Long View 2022 Hackathon Training Day
 
-Welcome to the Long View 2022 Hackathon! This repository contains all hands-on material referenced during the pre-hackathon training day on April 8th. Instructions are also provided below showing how to set up your local environment for the various tools that may be helpful in completing lab activities - and in your hackathon projects.
+Welcome to the Long View 2022 Hackathon! This repository contains all hands-on material referenced during the pre-hackathon training day on April 8th. Instructions are also provided below showing how to set up your local environment for the various tools that may be helpful in completing lab activities - and in your hackathon projects. You can also find information on the Cisco - Long View Lab Challenge below.
+
+#The Long View - Cisco Lab Challenge
+
+Interested in participating in the Cisco - Long View Lab challenge? This challenge involves completing each of the lab modules within the [DEVNET101](./DEVNET101) and [DEVNET102](./DEVNET102) folders. Each completed module makes you elligible for prizes!
 
 # Cisco DevNet
 
@@ -45,10 +49,6 @@ Please select the relevant operating system based on your local workstation belo
 
 [Setting up your Linux (CentOS) workstation](https://developer.cisco.com/learning/tracks/containers/containers-dev-env-setup/containers-dev-centos/step/1)
 
-## Getting help
-
-Having issues getting your environment set up? Reach out to the Long View and Cisco team supporting!
-
 # Microsoft Resources
 ## Free Azure Account
 Microsoft provides a $200 (USD) credit that can be used for virtually any Azure Service.  The credit is good for 30-days.  After you set it up, you’ll want to monitor the free accountant using Azure Cost Management to make sure the credit does not run out. 
@@ -59,3 +59,7 @@ Microsoft provides a $200 (USD) credit that can be used for virtually any Azure 
 Get a new instant sandbox preconfigured with sample data, including Teams Developer Portal, and start developing on the Microsoft 365 platform.  It’s production ready and setup very quickly, but it only lasts for 90 days, and then it resets so it’s not appropriate for customer use.  
 
 [Further information](./MicrosoftResources/Office365DeveloperSandbox.md)
+
+## Getting help
+
+Having issues getting your local environment set up? Or accessing a sandbox to test your creations? Reach out to the Long View and Cisco team supporting!
