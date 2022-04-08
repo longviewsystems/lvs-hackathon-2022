@@ -2,7 +2,7 @@
 
 Welcome to the Long View 2022 Hackathon! This repository contains all hands-on material referenced during the pre-hackathon training day on April 8th. Instructions are also provided below showing how to set up your local environment for the various tools that may be helpful in completing lab activities - and in your hackathon projects. You can also find information on the Cisco - Long View Lab Challenge below.
 
-# The Long View - Cisco Lab Challenge
+## The Long View - Cisco Lab Challenge
 
 Interested in participating in the Cisco - Long View Lab challenge? This challenge involves completing each of the lab modules within the [DEVNET101](./DEVNET101) and [DEVNET102](./DEVNET102) folders. Each completed module makes you elligible for prizes!
 
